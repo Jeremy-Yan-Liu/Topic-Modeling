@@ -8,9 +8,9 @@ Topic Modeling of New York Times Company News
 *topic_model.ipynb* is the code that takes *apple-incorporated.txt* as an example, runs [HDP](https://en.wikipedia.org/wiki/Hierarchical_Dirichlet_process), [LSI](https://en.wikipedia.org/wiki/Latent_semantic_analysis), [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) and LDA_Mod (LDA with optimized number of topics) four models and uses [coherence value](https://radimrehurek.com/gensim/models/coherencemodel.html) to evaluate the results. An interactive visualization is built through [pyLDAVis](https://github.com/bmabey/pyLDAvis) for demonstrating the results of LDA.
 
 ## Sample Output
+<img src = "Images/Coherence%20Value%20-%20Models.png" "height" = 400>
+<img src = "Images/Apple%20LDAViz.png" "height" = 400>
 
-<img src = "Images/Apple%20LDAViz.png">
-<img src = "Images/Coherence%20Value%20-%20Models.png">
 
 
 
