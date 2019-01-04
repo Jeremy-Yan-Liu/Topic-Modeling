@@ -9,6 +9,6 @@ The topic_model.ipynb is the code that takes apple-incorporated.txt as an exampl
 
 
 ## Reference
-Thanks to the [Topic Analysis example of Gensim](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html) and [Machine Learning]  (https://github.com/susanli2016/Machine-Learning-with-Python) github repository.
+Thanks to the [Topic Analysis example of Gensim](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html) and SusanLi's [Machine Learning]  (https://github.com/susanli2016/Machine-Learning-with-Python)repository. 
 
 
