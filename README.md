@@ -15,7 +15,7 @@ Topic Modeling of New York Times Company News
 
 
 ## Reference
-Thanks to the [Topic Analysis example of Gensim](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html).
+Thanks to the [Topic Analysis example of Gensim](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html) and SusanLi's resourcefule [Machine Learning] (https://github.com/susanli2016/Machine-Learning-with-Python)repository.
 
 
 
