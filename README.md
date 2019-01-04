@@ -22,7 +22,7 @@ The y-axis represents the coherence value of each model and the x-axis is the li
 Apple Inc. is perhaps one of the most prominent technology companies. As we could tell from the graph on the left, three circles represent three most relevant topics and they have large coincided area, which suggest some evident focus of Apple’s news. The term-topic bar chart on the right captures Apple’s main products: “computer”, “iphone”, “mac”, “ipod”. Its core competency lies on “tech”, “patent”, “software” and “apps”; its direct competitors include “google” and “microsoft”.
 
 ## Reference
-Thanks to the [Topic Analysis example of Gensim](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html) and SusanLi's resourcefule [Machine Learning] (https://github.com/susanli2016/Machine-Learning-with-Python)repository.
+Thanks to the [Topic Analysis example of Gensim](https://markroxor.github.io/gensim/static/notebooks/gensim_news_classification.html) and SusanLi's resourceful machine learning repository - (https://github.com/susanli2016/Machine-Learning-with-Python).
 
 
 
