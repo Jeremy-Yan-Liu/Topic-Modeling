@@ -1,6 +1,7 @@
 # Topic-Modeling
 Topic Modeling of New York Times Company News
 
+## Description
 *News copy* folder contains data of 31 companies collected by the author. Each file has three columns: date, headline/title, summary.
 
 *nltk_data* folder contains stopwords and lemmatizer used to preprocess the text data. 
