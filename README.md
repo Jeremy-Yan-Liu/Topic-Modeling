@@ -9,8 +9,8 @@ Topic Modeling of New York Times Company News
 
 ## Sample Output
 
-<img src = "Images/Bubble%20Chart%20Animation.gif">
-<img src = "Images/Bubble%20Chart%20Animation.gif">
+<img src = "Images/Apple%20LDAViz.png">
+<img src = "Images/Coherence%20Value%20-%20Models.png">
 
 
 
