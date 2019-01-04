@@ -12,7 +12,7 @@ Topic Modeling of New York Times Company News
 <img src = "Images/Coherence%20Value%20-%20Models.png" height = "400">
 
 #### Comments
-Coherence value is calculated to evaluate the four models’ performance. It can be easily worked out using a built-in function in Gensim and the higher the coherence value, the more human interpretable the generated topics are. The experiment results of different company’s data were similar. Hence, only one result was shown below. 
+Coherence value is calculated to evaluate the four models’ performance. It can be easily worked out using a built-in function in Gensim and the higher the coherence value, the more human interpretable the generated topics are. The experiment results of different company’s data were similar. Hence, only one result was shown above. 
 The y-axis represents the coherence value of each model and the x-axis is the list of models. Typically, HDP model performs more than two time better than the other three models. LSI is slightly better than LDA or LDA_Mod. LDA and LDA_Mod receive a similar coherence value as we actually know in advance the optimal number of topics. 
 
 ### 2. Visualization of LDA result
